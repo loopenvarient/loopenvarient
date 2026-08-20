@@ -29,13 +29,68 @@
 
 ## 💻 Tech Stack
 
-**Languages** — Python, R, TypeScript
-**AI / ML** — PyTorch, TensorFlow, Keras, scikit-learn, mlflow
-**Data & Visualization** — NumPy, Pandas, Matplotlib, Plotly, Scipy, Power BI
-**Frameworks & Backend** — FastAPI, Django, Flask, React Native
-**Databases** — Postgres, MongoDB, Microsoft SQL Server, Supabase, Firebase
-**DevOps & Infrastructure** — Docker, Kubernetes, Apache Kafka, GitHub Actions, Vercel
-**Tools & Platforms** — Git, GitHub, Postman, Notion, Anaconda, Figma, Canva
+**Languages**
+<p align="center">
+<img src="https://img.shields.io/badge/Python-40826D?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-40826D?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-40826D?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+**AI / ML**
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-40826D?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-40826D?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-40826D?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-40826D?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-40826D?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
+
+**Data & Visualization**
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-40826D?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-40826D?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-40826D?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-40826D?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-40826D?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-40826D?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
+
+**Frameworks & Backend**
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-40826D?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-40826D?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-40826D?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-40826D?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
+
+**Databases**
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-40826D?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-40826D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-40826D?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-40826D?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-40826D?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
+
+**DevOps & Infrastructure**
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-40826D?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-40826D?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-40826D?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-40826D?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-40826D?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+**Tools & Platforms**
+<p align="center">
+<img src="https://img.shields.io/badge/Git-40826D?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-40826D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-40826D?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-40826D?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-40826D?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-40826D?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-40826D?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -55,4 +110,5 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:40826D&height=100&section=footer)
 
+</div>
 
